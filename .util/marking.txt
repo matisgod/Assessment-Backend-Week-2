@@ -4,16 +4,10 @@ rootdir: /home/runner/work/Assessment-Backend-Week-2/Assessment-Backend-Week-2/m
 collected 73 items
 
 test_queries.py ................................                         [ 43%]
-test_routes.py FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                 [100%]
+test_routes.py .........................................                 [100%]
 
-======================== 41 failed, 32 passed in 19.40s ========================
-************* Module api
-marine_experiments/api.py:3:0: W0611: Unused datetime imported from datetime (unused-import)
-marine_experiments/api.py:5:0: W0611: Unused request imported from flask (unused-import)
-marine_experiments/api.py:6:0: W0611: Unused sql imported from psycopg2 (unused-import)
-************* Module database_functions
-marine_experiments/database_functions.py:16:0: C0304: Final newline missing (missing-final-newline)
+============================== 73 passed in 9.90s ==============================
 
-------------------------------------------------------------------
-Your code has been rated at 7.89/10 (previous run: 7.89/10, +0.00)
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
